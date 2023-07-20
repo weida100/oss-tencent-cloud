@@ -1,0 +1,15 @@
+{
+    "name": "weida/oss-tencent-cloud",
+    "autoload": {
+        "psr-4": {
+            "Weida\\OssTencentCloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waida",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {}
+}
